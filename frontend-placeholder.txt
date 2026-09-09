@@ -1,0 +1,1 @@
+Frontend source lives in src/. The backend is in backend/.
